@@ -1,9 +1,10 @@
-git config --global user.name MiguelLima
-git config --global usar.email mlimacamello@gmail.com
+git config --global user.name "MiguelLima"
+git config --global usar.email "mlimacamello@gmail.com"
 
 -- Criar um projeto React Native Expo
 npx create-expo-app@latest SilvinhaHealthApp --template blank
 
+-- Restaurar Projeto
 cd SilvinhaHealthApp
 npm i
 

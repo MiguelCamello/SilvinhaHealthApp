@@ -1,5 +1,5 @@
-git config --global user.name "MiguelLima"
-git config --global usar.email "mlimacamello@gmail.com"
+git config --global user.name MiguelLima
+git config --global user.email mlimacamello@gmail.com
 
 -- Criar um projeto React Native Expo
 npx create-expo-app@latest SilvinhaHealthApp --template blank
@@ -8,6 +8,7 @@ npx create-expo-app@latest SilvinhaHealthApp --template blank
 cd SilvinhaHealthApp
 npm i
 
+-- testar o projeto
 npx expo start
 npx expo start --android
 
